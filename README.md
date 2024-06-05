@@ -16,8 +16,8 @@ This guide will walk you through the process of deploying CKEditor using Docker.
 First, clone the CKEditor repository from GitHub to your local machine:
 
 ```bash
-git clone https://github.com/your-username/ckeditor-docker.git
-cd ckeditor-docker
+git clone https://github.com/reiebrole30/CKEditor-Docker.git
+cd CKEditor-Docker
 ```
 
 ### 2. Build the Docker Image
@@ -41,4 +41,4 @@ Once the container is up and running, you can access CKEditor via `http://localh
 ## Conclusion
 
 You have successfully deployed CKEditor using Docker. If you encounter any issues, please create an issue in the repository or refer to the Docker and CKEditor documentation for further assistance.
-```
+
