@@ -14,7 +14,7 @@ COPY ckeditor5-build-classic /usr/share/nginx/html
 RUN chown -R nginx:nginx /usr/share/nginx/html
 
 # Expose NGINX port 1010
-EXPOSE 1010
+EXPOSE 1011
 
 # Command to start NGINX server
 CMD ["nginx", "-g", "daemon off;"]
